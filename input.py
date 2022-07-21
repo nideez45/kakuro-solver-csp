@@ -1,6 +1,6 @@
 import re
 
-with open('simple/input7.txt') as f:
+with open('puzzles/input7.txt') as f:
     lines = f.readlines()
     
 # reading input    
